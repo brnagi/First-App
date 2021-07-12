@@ -5,7 +5,7 @@
 
 
 
-* Ruby version
+* Ruby
 
 * System dependencies
 
